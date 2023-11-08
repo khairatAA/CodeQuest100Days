@@ -4,4 +4,4 @@
   </a>
 </p>
 <h1 align="center">CodeQuest100Days</h1>
-This repository contains the code documentations of my #CodeQuest100Days journey.
+This repository contains the code documentation of my #CodeQuest100Days journey.
